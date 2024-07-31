@@ -9,18 +9,31 @@ Features and Descriptions
 
 
 enrollee_id: Unique ID for each candidate.
+
 city: Code for the city.
+
 city_development_index: Index indicating the development level of the city.
+
 gender: Gender of the candidate.
+
 relevent_experience: Whether the candidate has relevant experience.
+
 enrolled_university: Type of university course enrolled in, if any.
+
 education_level: Education level of the candidate.
+
 major_discipline: Major discipline of the candidate's education.
+
 experience: Total years of experience of the candidate.
+
 company_size: Number of employees in the candidate's current company.
+
 company_type: Type of the candidate's current company.
+
 last_new_job: Number of years since the candidate's last job.
+
 training_hours: Number of training hours completed.
+
 target: Indicates if the candidate is looking for a job change (0: Not looking, 1: Looking).
 
 Preprocessing Steps
