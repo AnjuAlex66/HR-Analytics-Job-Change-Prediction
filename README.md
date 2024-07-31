@@ -47,10 +47,17 @@ Classification Models and Evaluation
 
 
 Various classification models were applied to predict the target variable, including:
+
 K-Nearest Neighbors (KNN)
+
 Support Vector Classifier (SVC)
+
 Bernoulli Naive Bayes
+
 Decision Tree Classifier
+
 Random Forest Classifier
+
 Gradient Boosting Classifier
+
 Evaluation Metrics: Accuracy, precision, recall, and F1-score were used to evaluate the models.
