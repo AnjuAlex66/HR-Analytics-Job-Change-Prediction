@@ -1,5 +1,5 @@
 # HR-Analytics-Job-Change-Prediction
-Problem Statement
+# Problem Statement
 
 A company which is active in Big Data and Data Science wants to hire data scientists among people who successfully pass some courses which was conducted by the company. Many people signup for their training. Company wants to know which of these candidates really wants to work for the company after training or looking for a new employment because it helps to reduce the cost and time as well as the quality of training or planning the courses and categorization of candidates.
 
@@ -37,14 +37,14 @@ training_hours: Number of training hours completed.
 
 target: Indicates if the candidate is looking for a job change (0: Not looking, 1: Looking).
 
-Preprocessing Steps
+# Preprocessing Steps
 
 
 Handling Missing Values: Missing values in categorical columns were replaced with the mode.
 Balancing the Dataset: SMOTE (Synthetic Minority Over-sampling Technique) was used to balance the dataset.
 
 
-Classification Models and Evaluation
+# Classification Models and Evaluation
 
 
 Various classification models were applied to predict the target variable, including:
@@ -61,4 +61,6 @@ Random Forest Classifier
 
 Gradient Boosting Classifier
 
-Evaluation Metrics: Accuracy, precision, recall, and F1-score were used to evaluate the models.
+# Evaluation Metrics: 
+
+Accuracy, precision, recall, and F1-score were used to evaluate the models.
