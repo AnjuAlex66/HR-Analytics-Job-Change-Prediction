@@ -41,6 +41,7 @@ target: Indicates if the candidate is looking for a job change (0: Not looking, 
 
 
 Handling Missing Values: Missing values in categorical columns were replaced with the mode.
+
 Balancing the Dataset: SMOTE (Synthetic Minority Over-sampling Technique) was used to balance the dataset.
 
 
